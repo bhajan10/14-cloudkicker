@@ -1,0 +1,15 @@
+Task 14 - CloudKicker
+
+1. Created VM in Google Cloud Platform
+2. Connected from Kali using SSH
+3. Installed git, python3, pip, venv, nginx
+4. Cloned repository 12-fsd-flask
+5. Created Python virtual environment
+6. Activated virtual environment
+7. Installed dependencies using requirements.txt
+10. Configured Nginx reverse proxy
+11. Enabled Nginx site and restarted service
+12. Accessed Flask app publicly via http://34.56.182.189
+13. Registered a new user
+14. Logged in and accessed dashboard
+
