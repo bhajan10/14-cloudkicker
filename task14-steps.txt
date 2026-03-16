@@ -12,4 +12,3 @@ Task 14 - CloudKicker
 12. Accessed Flask app publicly via http://34.170.219.94
 13. Registered a new user
 14. Logged in and accessed dashboard
-
