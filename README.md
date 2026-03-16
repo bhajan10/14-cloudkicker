@@ -1,7 +1,7 @@
 CloudKicker Deployment
 
 Public IP:
-http://34.56.182.189
+http://34.170.219.94
 
 Configuration:
 Flask bound to 127.0.0.1:5000
